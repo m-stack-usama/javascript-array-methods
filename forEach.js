@@ -1,4 +1,4 @@
-//executes the given fucntion on every from an array
+//executes the given fucntion on every element from an array
 
 // const numbers = [1, 2, 3, 4, 5]
 
